@@ -46,8 +46,8 @@ var Snake = (function () {
   fruitImage.src = fruitImages[0];
 
   // TamaÃ±o de la fruta en casillas
-  var fruitWidth = 6;
-  var fruitHeight = 6;
+  var fruitWidth = 7;
+  var fruitHeight = 7;
 
   var trail = [];
   var tail = INITIAL_TAIL;
