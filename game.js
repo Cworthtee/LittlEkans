@@ -19,7 +19,7 @@ var Snake = (function () {
 
   // Lista de imágenes posibles
   var fruitImages = [
-    ".sticker01.webp",
+    ".sticker01.png",
     ".sticker02.webp",
     ".sticker03.webp",
     ".sticker04.webp",
